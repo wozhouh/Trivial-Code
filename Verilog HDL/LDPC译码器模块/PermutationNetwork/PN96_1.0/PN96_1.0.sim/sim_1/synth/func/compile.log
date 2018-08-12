@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.sim/sim_1/synth/func/PN_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork32
+INFO: [VRFC 10-311] analyzing module CtrlSignal32
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sim_1/new/PN_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PN_tb

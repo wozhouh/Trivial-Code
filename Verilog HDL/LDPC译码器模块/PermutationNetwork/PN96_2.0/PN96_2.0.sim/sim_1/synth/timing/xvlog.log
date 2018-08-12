@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork2008_2.0/PermutationNetwork2008_2.0.sim/sim_1/synth/timing/PN128_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork128
+INFO: [VRFC 10-311] analyzing module CtrlSignal128
+INFO: [VRFC 10-311] analyzing module SetTop128
+INFO: [VRFC 10-311] analyzing module SetTop128_0
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork2008_2.0/PermutationNetwork2008_2.0.srcs/sim_1/new/PN128_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PN128_tb

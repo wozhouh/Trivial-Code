@@ -1,0 +1,12 @@
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/SwitchUnit.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/ParameterGenerator.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/CtrlSignal4.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/CtrlSignal8.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/BenesNetwork4.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/CtrlSignal16.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/BenesNetwork8.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/CtrlSignal32.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/BenesNetwork16.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sources_1/new/Network.v"
+verilog work "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork/PermutationNetwork.srcs/sim_1/new/PN_tb.v"
+verilog work C:/DesignSuit/14.2/ISE_DS/PlanAhead/data/verilog/src/glbl.v

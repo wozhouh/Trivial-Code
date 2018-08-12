@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "PN_tb_func_synth.v" --include "../../../../PermutationNetwork.srcs/sources_1/new"
+verilog xil_defaultlib  "../../../../PermutationNetwork.srcs/sim_1/new/PN_tb.v" --include "../../../../PermutationNetwork.srcs/sources_1/new"
+
+# Do not sort compile order
+nosort

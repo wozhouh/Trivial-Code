@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/BenesNetwork128.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/BenesNetwork16.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/BenesNetwork64.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/BenesNetwork8.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/CtrlSignal128.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/CtrlSignal16.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/CtrlSignal32.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/CtrlSignal64.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/CtrlSignal8.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/Network.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/ParameterGenerator.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/SwitchUnit.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sources_1/new/SwitchUnit3.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+verilog xil_defaultlib  "../../../project_3.srcs/sim_1/new/PN24_tb.v" --include "../../../project_3.srcs/sources_1/new" --include "../../../project_3.srcs/sources_1/ip/clk_wiz_0"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

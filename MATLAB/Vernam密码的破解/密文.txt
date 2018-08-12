@@ -1,0 +1,41 @@
+【密文2】
+
+Listen - Do you want to know a secret? Do you promise not to tell? whoa oh, oh Closer - Let me whisper in your ear -The Beatles 
+
+
+【密文5】
+
+I never teach my pupils. . .I only attempt to provide the conditions in which they can learn. -Albert Einstein                  
+
+
+【13密文破解】
+
+- -William Shakespeare -William Shakespeare -William Shakespeare -William Shakespeare -William Shakespeare -William Shakespeare 
+
+8&,bet;c.,ec/-{p|p!,'7wfix(v4%|pt{i })+m8Sb+xas,Cqj5&ivavs7suhfbn&rh.Ud.xy!1bq!f-%Iq| v?8Io5da6b,$^cklk rules Neil Gaiman 
+
+可确认字符串：" -William Shakespeare " "lk rules Neil Gaiman "
+
+
+【46密文破解】
+
+第26个字符开始有"yourself"，对应另一段的"printf(""
+
+
+
+【两两异或小于34统计】
+
+	密文1	密文2	密文3	密文4	密文5	密文6
+密文1	1	0.2031	0.6406	0.2734	0.2031	0.3125
+密文2	0.2031	1	0.2891	0.2656	0.5703	0.2813
+密文3	0.6406	0.2891	1	0.2656	0.1797	0.2734
+密文4	0.2734	0.2656	0.2656	1	0.3203	0.4922
+密文5	0.2031	0.5703	0.1797	0.3203	1	0.2734
+密文6	0.3125	0.2813	0.2734	0.4922	0.2734	1
+
+
+【ACSII】
+
+00100000	32	space
+01000001	65	A
+01011010	90	Z

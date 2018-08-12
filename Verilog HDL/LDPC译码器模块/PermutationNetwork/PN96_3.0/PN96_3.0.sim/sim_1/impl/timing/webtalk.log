@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Thu May 18 19:57:01 2017
+# Process ID: 34168
+# Current directory: C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.sim/sim_1/impl/timing
+# Command line: wbtcv.exe -mode batch -source C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.sim/sim_1/impl/timing/xsim.dir/PN_tb_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.sim/sim_1/impl/timing/webtalk.log
+# Journal file: C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.sim/sim_1/impl/timing\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.sim/sim_1/impl/timing/xsim.dir/PN_tb_time_impl/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:07 . Memory (MB): peak = 63.141 ; gain = 0.684
+INFO: [Common 17-206] Exiting Webtalk at Thu May 18 19:57:08 2017...

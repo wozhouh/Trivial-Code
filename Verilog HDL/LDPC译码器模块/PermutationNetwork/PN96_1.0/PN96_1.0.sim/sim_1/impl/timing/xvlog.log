@@ -1,0 +1,43 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.sim/sim_1/impl/timing/PN24_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork128
+INFO: [VRFC 10-311] analyzing module BenesNetwork64
+INFO: [VRFC 10-311] analyzing module BenesNetwork64_0
+INFO: [VRFC 10-311] analyzing module CtrlSignal128
+INFO: [VRFC 10-311] analyzing module CtrlSignal64
+INFO: [VRFC 10-311] analyzing module CtrlSignal64_1
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/BenesNetwork128.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork128
+WARNING: [VRFC 10-1195] overwriting previous definition of module BenesNetwork128 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/BenesNetwork128.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/BenesNetwork16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/BenesNetwork64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork64
+WARNING: [VRFC 10-1195] overwriting previous definition of module BenesNetwork64 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/BenesNetwork64.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/BenesNetwork8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/CtrlSignal128.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal128
+WARNING: [VRFC 10-1195] overwriting previous definition of module CtrlSignal128 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/CtrlSignal128.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/CtrlSignal16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/CtrlSignal32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/CtrlSignal64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal64
+WARNING: [VRFC 10-1195] overwriting previous definition of module CtrlSignal64 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/CtrlSignal64.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/CtrlSignal8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/Network.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/ParameterGenerator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ParameterGenerator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/SwitchUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SwitchUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sources_1/new/SwitchUnit3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SwitchUnit3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/project_3/project_3.srcs/sim_1/new/PN24_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PN24_tb

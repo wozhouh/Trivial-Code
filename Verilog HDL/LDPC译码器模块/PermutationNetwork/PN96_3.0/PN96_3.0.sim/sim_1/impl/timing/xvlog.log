@@ -1,0 +1,53 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.sim/sim_1/impl/timing/PN_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal96
+INFO: [VRFC 10-311] analyzing module Network48
+INFO: [VRFC 10-311] analyzing module Network48_0
+INFO: [VRFC 10-311] analyzing module Network96
+INFO: [VRFC 10-311] analyzing module SetTop96
+INFO: [VRFC 10-311] analyzing module SetTop96_1
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clk_wiz_0__clk_wiz_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/CtrlSignal12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal12
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/CtrlSignal24.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal24
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/CtrlSignal48.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal48
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/CtrlSignal6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal6
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/CtrlSignal96.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlSignal96
+WARNING: [VRFC 10-1195] overwriting previous definition of module CtrlSignal96 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/CtrlSignal96.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/Network12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Network12
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/Network24.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Network24
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/Network48.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Network48
+WARNING: [VRFC 10-1195] overwriting previous definition of module Network48 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/Network48.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/Network6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Network6
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/Network96.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Network96
+WARNING: [VRFC 10-1195] overwriting previous definition of module Network96 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/Network96.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/ParameterGenerator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ParameterGenerator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SetTop12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SetTop12
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SetTop24.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SetTop24
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SetTop48.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SetTop48
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SetTop6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SetTop6
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SetTop96.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SetTop96
+WARNING: [VRFC 10-1195] overwriting previous definition of module SetTop96 [C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SetTop96.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SwitchUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SwitchUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/FinalPN/PermutationNetwork_2010/PermutationNetwork_2010.srcs/sources_1/new/SwitchUnit3_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SwitchUnit3_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork_2008/PermutationNetwork_2008.srcs/sources_1/new/PN_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PN_tb

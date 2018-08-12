@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork2009_3.0/project_3/project_3.sim/sim_1/synth/timing/PN24_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BenesNetwork128
+INFO: [VRFC 10-311] analyzing module BenesNetwork64
+INFO: [VRFC 10-311] analyzing module BenesNetwork64_0
+INFO: [VRFC 10-311] analyzing module CtrlSignal128
+INFO: [VRFC 10-311] analyzing module CtrlSignal64
+INFO: [VRFC 10-311] analyzing module CtrlSignal64_1
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shane/Desktop/Practicum/Programming/Project/PermutationNetwork2009_3.0/project_3/project_3.srcs/sim_1/new/PN24_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PN24_tb
